@@ -46,7 +46,7 @@ Raw generated CSVs (`duka_sales.csv`, `agents.csv`, `agent_transactions.csv`) ar
 
 **In Google Colab**, run this first in a cell, then continue with the notebook:
 ```python
-!git clone https://github.com/YOUR-USERNAME/plp-da-a3-duka-sales-and-agent-cleanup.git
+!git clone https://github.com/mangacindy9-code/plp-da-a3-duka-sales-and-agent-cleanup.git
 %cd plp-da-a3-duka-sales-and-agent-cleanup
 !python generate_data.py
 ```
